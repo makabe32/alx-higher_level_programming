@@ -1,4 +1,8 @@
-#r/bin/python3
+#!/usr/bin/python3
+
+''' rectangle empty class'''
+
 
 class Rectangle:
- pass
+    '''Just one comment has given me all this trouble'''
+    pass
